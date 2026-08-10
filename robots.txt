@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: obzor-licenzionnyh-kazino.github.io
+Sitemap: https://obzor-licenzionnyh-kazino.github.io/sitemap.xml
